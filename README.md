@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAD >>>>>>>>
 //
 ## Advance E-commerce website in  Laravel 9
 
@@ -73,6 +73,6 @@ Many more....
 12. Visit /admin if you want to access the admin panel. Admin Email/Password: ```admin@gmail.com```/```1111```. User Email/Password: ```user@gmail.com```/```1111```
 =======
 kor_shop
->>>>>>> origin/main
+>>>>>>> origin/main >>>>>>>>>>
 
 
